@@ -1,0 +1,72 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "PUMC Demo",
+    "description": "",
+    "home_page_url": "https://cmupsea.github.io",
+    "feed_url": "https://cmupsea.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Rakner"
+    },
+    "items": [
+        {
+            "id": "https://cmupsea.github.io/contact/",
+            "url": "https://cmupsea.github.io/contact/",
+            "title": "Contact",
+            "summary": "Contact us via",
+            "content_html": "<p>Contact us via</p>",
+            "author": {
+                "name": "Rakner"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-08-20T23:35:20-07:00",
+            "date_modified": "2020-08-20T23:35:20-07:00"
+        },
+        {
+            "id": "https://cmupsea.github.io/mission/",
+            "url": "https://cmupsea.github.io/mission/",
+            "title": "Mission",
+            "summary": "Save the world from oppressors and tear down capitalism (or something)",
+            "content_html": "<p>Save the world from oppressors and tear down capitalism (or something)</p>",
+            "image": "https://cmupsea.github.io/media/posts/3/45478376_10156647296965330_6341124062667866112_o.jpg",
+            "author": {
+                "name": "Rakner"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-08-20T23:35:20-07:00",
+            "date_modified": "2020-08-20T23:35:20-07:00"
+        },
+        {
+            "id": "https://cmupsea.github.io/pumc/",
+            "url": "https://cmupsea.github.io/pumc/",
+            "title": "Pink Umbrella Medic Collective",
+            "summary": "Pink Umbrella Medic Collective: Supporting revolutions since 2020 ",
+            "content_html": "<p>Pink Umbrella Medic Collective: Supporting revolutions since 2020</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://cmupsea.github.io/media/posts/2/57e63a3f-31a7-4d66-bb13-cf34c1b86078.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://cmupsea.github.io/media/posts/2/responsive/57e63a3f-31a7-4d66-bb13-cf34c1b86078-xs.jpg 300w ,https://cmupsea.github.io/media/posts/2/responsive/57e63a3f-31a7-4d66-bb13-cf34c1b86078-sm.jpg 480w ,https://cmupsea.github.io/media/posts/2/responsive/57e63a3f-31a7-4d66-bb13-cf34c1b86078-md.jpg 768w ,https://cmupsea.github.io/media/posts/2/responsive/57e63a3f-31a7-4d66-bb13-cf34c1b86078-lg.jpg 1024w\"  alt=\"Soap\" width=\"3024\" height=\"4032\"></figure>\n<p> </p>",
+            "image": "https://cmupsea.github.io/media/posts/2/3D0E1704-9B8F-4EC0-BD63-635BD4A1847D.jpg",
+            "author": {
+                "name": "Rakner"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-08-20T23:35:20-07:00",
+            "date_modified": "2020-08-20T23:35:20-07:00"
+        },
+        {
+            "id": "https://cmupsea.github.io/donations/",
+            "url": "https://cmupsea.github.io/donations/",
+            "title": "Donations",
+            "summary": "PUMC needs your help! Send monay plz ",
+            "content_html": "<p>PUMC needs your help! Send monay plz</p>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://cmupsea.github.io/media/posts/1/ea0d81a4-b7b4-4424-bb66-c3b8980b9e75.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://cmupsea.github.io/media/posts/1/responsive/ea0d81a4-b7b4-4424-bb66-c3b8980b9e75-xs.png 300w ,https://cmupsea.github.io/media/posts/1/responsive/ea0d81a4-b7b4-4424-bb66-c3b8980b9e75-sm.png 480w ,https://cmupsea.github.io/media/posts/1/responsive/ea0d81a4-b7b4-4424-bb66-c3b8980b9e75-md.png 768w ,https://cmupsea.github.io/media/posts/1/responsive/ea0d81a4-b7b4-4424-bb66-c3b8980b9e75-lg.png 1024w\"  alt=\"\" width=\"1650\" height=\"1275\"></figure>",
+            "image": "https://cmupsea.github.io/media/posts/1/14F5F6B2-F22E-4F56-AFAC-3BA5427BEFD9-2.jpg",
+            "author": {
+                "name": "Rakner"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-08-20T23:35:20-07:00",
+            "date_modified": "2020-08-20T23:35:20-07:00"
+        }
+    ]
+}
