@@ -20,23 +20,23 @@
             },
             "tags": [
             ],
-            "date_published": "2020-09-15T16:07:46-07:00",
-            "date_modified": "2020-09-15T16:07:46-07:00"
+            "date_published": "2020-09-15T18:21:42-07:00",
+            "date_modified": "2020-09-15T18:21:42-07:00"
         },
         {
             "id": "https://cmupsea.github.io/mission/",
             "url": "https://cmupsea.github.io/mission/",
             "title": "Mission",
-            "summary": "Save the world from oppressors and tear down capitalism (or something)",
-            "content_html": "<p>Save the world from oppressors and tear down capitalism (or something)</p>",
+            "summary": "Save the world from oppressors and tear down capitalism (or something) and&hellip;",
+            "content_html": "<p>Save the world from oppressors and tear down capitalism (or something) and more</p>",
             "image": "https://cmupsea.github.io/media/posts/3/45478376_10156647296965330_6341124062667866112_o.jpg",
             "author": {
                 "name": "Rakner"
             },
             "tags": [
             ],
-            "date_published": "2020-09-15T16:07:46-07:00",
-            "date_modified": "2020-09-15T16:07:46-07:00"
+            "date_published": "2020-09-15T18:21:42-07:00",
+            "date_modified": "2020-09-15T18:21:42-07:00"
         },
         {
             "id": "https://cmupsea.github.io/pumc/",
@@ -50,8 +50,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-09-15T16:07:46-07:00",
-            "date_modified": "2020-09-15T16:07:46-07:00"
+            "date_published": "2020-09-15T18:21:42-07:00",
+            "date_modified": "2020-09-15T18:21:42-07:00"
         },
         {
             "id": "https://cmupsea.github.io/donations/",
@@ -65,8 +65,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-09-15T16:07:46-07:00",
-            "date_modified": "2020-09-15T16:07:46-07:00"
+            "date_published": "2020-09-15T18:21:42-07:00",
+            "date_modified": "2020-09-15T18:21:42-07:00"
         }
     ]
 }
